@@ -36,5 +36,3 @@ Troubleshooting:
   Refer to my site for information and ways to contact me if there is a problem.
   I appreciate bug-reports and feedback.
 
-  email: themrcerebro@gmail.com
-
